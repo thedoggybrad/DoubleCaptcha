@@ -8,3 +8,6 @@
 Read that thing above, it says that it can bypass ReCaptcha. But not the original OSSN Captcha. The original OSSN Captcha is using the older non picture method.
 <br>
 Atleast, you have a backup Captcha but still this is not a gurantee that a computer program will not be able to bypass this backup Captcha.
+
+## Download Link
+To be determined
