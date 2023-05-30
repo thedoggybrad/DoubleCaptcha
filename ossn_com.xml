@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>DoubleCaptcha</name>
+    <id>doublecaptcha</id>
+    <author>TheDoggyBrad / Core Team</author>
+    <description>(Overkill Component) This is the original OSSN Captcha designed to be used side by side using the newer ReCaptcha v2 and v3 components. This is done since there are ReCaptcha solvers are available and you may wanna use this as a backup Captcha.</description>
+    <license>Open Source Social Network License (OSSN LICENSE)</license>
+    <author_url>https://www.softlab24.com/</author_url>
+    <license_url>https://www.opensource-socialnetwork.org/licence/</license_url>
+    <version>1.0</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>5.2</version>
+	</requires>
+</component>
